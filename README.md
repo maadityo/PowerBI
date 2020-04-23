@@ -1,7 +1,7 @@
 # Microsoft PowerBI
 Dokumentasi tentang penggunaan Microsoft PowerBI dalam Bahasa Indonesia.
 
-saya menyadari, karya saya masih jauh dari sempurna - untuk pertanyaan \ saran, silakan kirim pesan ke saya di mathias.arya@gmail.com
+Untuk pertanyaan \ saran, silakan kirim pesan ke saya di mathias.arya@gmail.com
 
 Terima kasih!
 
